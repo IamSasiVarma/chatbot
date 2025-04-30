@@ -1,2 +1,2 @@
 # chatbot
-generative ai chatbot by sashi varma
+https://sasivarmaai.ccbp.tech/
